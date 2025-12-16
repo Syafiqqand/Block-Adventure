@@ -258,7 +258,7 @@ GameObject:
   m_Component:
   - component: {fileID: 498432537}
   m_Layer: 5
-  m_Name: SHapes
+  m_Name: Shapes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1812,7 +1812,7 @@ GameObject:
   - component: {fileID: 1736363641}
   - component: {fileID: 1736363640}
   m_Layer: 0
-  m_Name: sfxSource
+  m_Name: SFX
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2016,7 +2016,7 @@ GameObject:
   - component: {fileID: 1946869368}
   - component: {fileID: 1946869367}
   m_Layer: 0
-  m_Name: musicSource
+  m_Name: Music
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2037,7 +2037,7 @@ AudioSource:
   m_PlayOnAwake: 1
   m_Volume: 0.5
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
