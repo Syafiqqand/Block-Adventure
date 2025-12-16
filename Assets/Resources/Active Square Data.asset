@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 229abf83c709005488ed042342dfc723, type: 3}
   m_Name: Active Square Data
   m_EditorClassIdentifier: 
-  tresholdVal: 90
+  tresholdVal: 10
   ActiveSquareTexture:
   - textureSprite: {fileID: 21300000, guid: 56196239a87fe074fb5d00b0aabe6965, type: 3}
     squareColor: 2
@@ -22,13 +22,13 @@ MonoBehaviour:
     squareColor: 3
   - textureSprite: {fileID: 21300000, guid: f71fb799f3e004145bcd53df535ba7eb, type: 3}
     squareColor: 4
-  - textureSprite: {fileID: 21300000, guid: 96a6668cac7864043b901a57cc36d0c0, type: 3}
-    squareColor: 5
   - textureSprite: {fileID: 21300000, guid: 25981d64f4f869940850a7c365915b11, type: 3}
     squareColor: 6
+  - textureSprite: {fileID: 21300000, guid: 96a6668cac7864043b901a57cc36d0c0, type: 3}
+    squareColor: 5
   - textureSprite: {fileID: 21300000, guid: 534a989f21fdc0b4291e12e80c3421c7, type: 3}
     squareColor: 7
   - textureSprite: {fileID: 21300000, guid: 393092bc703fa8d44ae6006d924c7b7d, type: 3}
     squareColor: 1
-  currentColor: 6
+  currentColor: 2
   GetCurrentIndex: 0
