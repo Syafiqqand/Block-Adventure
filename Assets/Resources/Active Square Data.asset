@@ -30,5 +30,5 @@ MonoBehaviour:
     squareColor: 7
   - textureSprite: {fileID: 21300000, guid: a96bc60e9e90a4946ad831703940dcf9, type: 3}
     squareColor: 8
-  currentColor: 7
+  currentColor: 1
   GetCurrentIndex: 0
